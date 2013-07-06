@@ -1,4 +1,3 @@
 line1
 line3
 Added another line
-line1\nline2
